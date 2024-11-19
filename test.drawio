@@ -45,50 +45,84 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-0" value="Movie&#39;s Title" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="585" width="100" height="60" as="geometry" />
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-12" target="bNNTKG-qH6Fv4Rn3Kx4P-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-1" value="Movie&#39;s Overview" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="660" width="100" height="60" as="geometry" />
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-12" value="Movies&#39; title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="480" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-2" value="Movie&#39;s Genre" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="740" width="100" height="60" as="geometry" />
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-13" target="bNNTKG-qH6Fv4Rn3Kx4P-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-9" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="615" height="155" as="geometry" />
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-13" value="Movies&#39; overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="525" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-5" value="" style="endArrow=none;html=1;rounded=0;fontStyle=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bNNTKG-qH6Fv4Rn3Kx4P-9" source="bNNTKG-qH6Fv4Rn3Kx4P-0">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="5" as="sourcePoint" />
-            <mxPoint y="85" as="targetPoint" />
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-14" target="bNNTKG-qH6Fv4Rn3Kx4P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-14" value="Movies&#39; genre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-24" target="bNNTKG-qH6Fv4Rn3Kx4P-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-34" value="Vectorize using BERT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="bNNTKG-qH6Fv4Rn3Kx4P-31">
+          <mxGeometry x="0.0556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-24" value="Movies&#39; description" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-30" target="bNNTKG-qH6Fv4Rn3Kx4P-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-30" value="Text vectorization of movie descriptions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="630" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-35" target="bNNTKG-qH6Fv4Rn3Kx4P-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-35" value="Similarity scores" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="622.5" y="770" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-39" target="bNNTKG-qH6Fv4Rn3Kx4P-35">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint />
+              <mxPoint x="540" y="720" />
+              <mxPoint x="540" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bNNTKG-qH6Fv4Rn3Kx4P-9" source="bNNTKG-qH6Fv4Rn3Kx4P-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="154.65999999999997" as="sourcePoint" />
-            <mxPoint y="85" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="155" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-39" value="Compute cosine similarity between the movie user favored and other movies in the database" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="680" width="234" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bNNTKG-qH6Fv4Rn3Kx4P-9" source="bNNTKG-qH6Fv4Rn3Kx4P-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="74.65999999999997" as="sourcePoint" />
-            <mxPoint y="75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="75" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-41" target="bNNTKG-qH6Fv4Rn3Kx4P-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="690" as="sourcePoint" />
-            <mxPoint x="390" y="690" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-41" value="Movies&#39; rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-42" target="bNNTKG-qH6Fv4Rn3Kx4P-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-42" value="Movies&#39; popularity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="600" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-50" value="Weighting and ranking" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="680" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-63" value="Output: the most recommended movies based on the favored one" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="540" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-65" target="bNNTKG-qH6Fv4Rn3Kx4P-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-65" value="Input: a movie favored by the user" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNNTKG-qH6Fv4Rn3Kx4P-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bNNTKG-qH6Fv4Rn3Kx4P-50" target="bNNTKG-qH6Fv4Rn3Kx4P-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
